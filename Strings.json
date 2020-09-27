@@ -778,7 +778,8 @@
   "Dot grid size": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Dot grid size/Text",
     "en": "Dot grid size",
-    "ja": "Dot grid size"
+    "ja": "Dot grid size",
+	"id": "Ukuran grid titik"
   },
   "Dot size factor": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Dot size factor/Text",
