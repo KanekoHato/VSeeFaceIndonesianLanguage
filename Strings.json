@@ -652,107 +652,128 @@
   "Ultra": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:4",
     "en": "Ultra",
-    "ja": "Ultra"
+    "ja": "Ultra",
+	"id": "Ultra"
   },
   "If you encounter odd shadows around the eyes, caused by the eye lash meshes, try setting the material to cutout.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Ambient occlusion/Text",
     "en": "If you encounter odd shadows around the eyes, caused by the eye lash meshes, try setting the material to cutout.",
-    "ja": "If you encounter odd shadows around the eyes, caused by the eye lash meshes, try setting the material to cutout."
+    "ja": "If you encounter odd shadows around the eyes, caused by the eye lash meshes, try setting the material to cutout.",
+	"id": "Jika kamu mengalami bayangan aneh di sekitar mata, menyebabkan alis menyatu, coba untuk atur material ke cutout."
   },
   "Multiplier X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Multiplier X/Text",
     "en": "Multiplier X",
-    "ja": "Multiplier X"
+    "ja": "Multiplier X",
+	"id": "Multiplier X"
   },
   "Multiplier Y": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Multiplier Y/Text",
     "en": "Multiplier Y",
-    "ja": "Multiplier Y"
+    "ja": "Multiplier Y",
+	"id": "Multiplier Y"
   },
   "Center X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Center X/Text",
     "en": "Center X",
-    "ja": "Center X"
+    "ja": "Center X",
+	"id": "Center X"
   },
   "Center Y": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Center Y/Text",
     "en": "Center Y",
-    "ja": "Center Y"
+    "ja": "Center Y",
+	"id": "Center Y"
   },
   "Scale": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Lens distortion/Scale/Text",
     "en": "Scale",
-    "ja": "Scale"
+    "ja": "Scale",
+	"id": "Scale"
   },
   "Cromatic aberration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Chromatic aberration/Title",
     "en": "Chromatic aberration",
-    "ja": "色収差"
+    "ja": "色収差",
+	"id": "Aberasi chromatik"
   },
   "Color temperature": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Temperature/Text",
     "en": "Color temperature",
-    "ja": "Color temperature"
+    "ja": "Color temperature",
+	"id": "Temperatur warna"
   },
   "Tint": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Tint/Text",
     "en": "Tint",
-    "ja": "Tint"
+    "ja": "Tint",
+	"id": "Tint"
   },
   "Hue": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Hue/Text",
     "en": "Hue",
-    "ja": "Hue"
+    "ja": "Hue",
+	"id": "Hue"
   },
   "Saturation": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Saturation/Text",
     "en": "Saturation",
-    "ja": "Saturation"
+    "ja": "Saturation",
+	"id": "Satruasi"
   },
   "Brightness": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Brightness/Text",
     "en": "Brightness",
-    "ja": "Brightness"
+    "ja": "Brightness",
+	"id": "Brightness"
   },
   "Contrast": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Color/Contrast/Text",
     "en": "Contrast",
-    "ja": "Contrast"
+    "ja": "Contrast",
+	"id": "Kontras"
   },
   "Colored": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Colored/Label",
     "en": "Colored",
-    "ja": "Colored"
+    "ja": "Colored",
+	"id": "Colored"
   },
   "Size": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Size/Text",
     "en": "Size",
-    "ja": "Size"
+    "ja": "Size",
+	"id": "Ukkuran"
   },
   "Luminance contribution": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Luminance contribution/Text",
     "en": "Luminance contribution",
-    "ja": "Luminance contribution"
+    "ja": "Luminance contribution",
+	"id": "Kontribusi luminance"
   },
   "Transparent grain strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Alpha/Text",
     "en": "Transparent grain strength",
-    "ja": "Transparent grain strength"
+    "ja": "Transparent grain strength",
+	"id": "Transparent grain strength"
   },
   "Opaque background": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Opaque background/Label",
     "en": "Opaque background",
-    "ja": "Opaque background"
+    "ja": "Opaque background",
+	"id": "Opaque background"
   },
   "Black level": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Black level/Text",
     "en": "Black level",
-    "ja": "Black level"
+    "ja": "Black level",
+	"id": "Black level"
   },
   "White level": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/White level/Text",
     "en": "White level",
-    "ja": "White level"
+    "ja": "White level",
+	"id": "White level"
   },
   "Dot grid size": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Dot grid size/Text",
