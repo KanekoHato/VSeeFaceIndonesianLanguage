@@ -280,312 +280,374 @@
   "Avatar selection": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Avatar selection/Text",
     "en": "Avatar selection",
-    "ja": "アバターを選択する"
+    "ja": "アバターを選択する",
+	"id": "Pilihan Avatar"
   },
   "Show settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Show settings/Text",
     "en": "Show settings",
-    "ja": "設定"
+    "ja": "設定",
+	"id": "Tunjukkan Pengaturan"
   },
   "Hide settings menu": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Text",
     "en": "Hide settings menu",
-    "ja": "設定"
+    "ja": "設定",
+	"id": "Sembunyikan menu pengaturan"
   },
   "General settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/General settings/Text",
     "en": "General settings",
-    "ja": "一般設定"
+    "ja": "一般設定",
+	"id": "Pilihan Avatar"
   },
   "Leap Motion settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Leap Motion settings/Text",
     "en": "Leap Motion settings",
-    "ja": "Leap Motion設定"
+    "ja": "Leap Motion設定",
+	"id": "Pengaturan Leap Motion"
   },
   "Light settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Light settings/Text",
     "en": "Light settings",
-    "ja": "照明設定"
+    "ja": "照明設定",
+	"id": "Pengaturan cahaya"
   },
   "Expression settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Expression settings/Text",
     "en": "Expression settings",
-    "ja": "表情設定"
+    "ja": "表情設定",
+	"id": "Pengaturan expressi"
   },
   "Effect settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Effect settings/Text",
     "en": "Effect settings",
-    "ja": "後処理設定"
+    "ja": "後処理設定",
+	"id": "Pengaturan efek"
   },
   "Show help": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Show help/Text",
     "en": "Show help",
-    "ja": "説明"
+    "ja": "説明",
+	"id": "Perlihatkan bantuan"
   },
   "Show usage notes": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Show usage notes/Text",
     "en": "Show usage notes",
-    "ja": "使い方のヒント"
+    "ja": "使い方のヒント",
+	"id": "Perlihatkan catatan penggunaan"
   },
   "Hide usage notes": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Hide usage notes/Text",
     "en": "Hide usage notes",
-    "ja": "使い方のヒント"
+    "ja": "使い方のヒント",
+	"id": "Sembunyikan catatan penggunaan"
   },
   "Clear calibration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Clear calibration/Text",
     "en": "Clear calibration",
-    "ja": "較正を削除する"
+    "ja": "較正を削除する",
+	"id": "Hapus kalibrasi"
   },
   "Load calibration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Load/Text",
     "en": "Load calibration\n",
-    "ja": "較正をロードする\n"
+    "ja": "較正をロードする\n",
+	"id": "Muat kalibrasi"
   },
   "Save calibration as...": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Save as/Text",
     "en": "Save calibration as...\n",
-    "ja": "較正を名前を付けて保存する...\n"
+    "ja": "較正を名前を付けて保存する...\n",
+	"id": "Simpan kalibrasi sebagai...\n"
   },
   "Save calibration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Save/Text",
     "en": "Save calibration\n",
-    "ja": "較正を保存する\n"
+    "ja": "較正を保存する\n",
+	"id": "Simpan kalibrasi\n"
   },
   "Reset position": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Reset position/Text",
     "en": "Reset position",
-    "ja": "位置をリセットする"
+    "ja": "位置をリセットする",
+	"id": "Perlihatkan catatan penggunaan"
   },
   "Mirror motion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Mirror motion/Text",
     "en": "Mirror motion",
-    "ja": "ミラーモード"
+    "ja": "ミラーモード",
+	"id": "Pantulkan gerakan"
   },
   "Drift back to normal": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Drift/Text",
     "en": "Drift back to normal",
-    "ja": "徐々に位置をリセットをする"
+    "ja": "徐々に位置をリセットをする",
+	"id": "Kembalikan Drift ke normal"
   },
   "Track Leap Motion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Track Leap Motion/Text",
     "en": "Track Leap Motion",
-    "ja": "Leap Motionトラッキング"
+    "ja": "Leap Motionトラッキング",
+	"id": "Lacak Leap Motion"
   },
   "Smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Smoothing/Text",
     "en": "Smoothing",
-    "ja": "平滑化"
+    "ja": "平滑化",
+	"id": "Perhalus"
   },
   "Movement range": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Movement range/Text",
     "en": "Movement range\n",
-    "ja": "可動範囲\n"
+    "ja": "可動範囲\n",
+	"id": "Jarak gerakan\n"
   },
   "Drift speed": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Drift speed/Text",
     "en": "Drift speed",
-    "ja": "徐々に位置をリセットスピード"
+    "ja": "徐々に位置をリセットスピード",
+	"id": "Keccepatan Drift"
   },
   "Neutral": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/Record/Text",
     "en": "Neutral",
-    "ja": "Neutral"
+    "ja": "Neutral",
+	"id": "Neutral"
   },
   "Clear": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/Clear/Text",
     "en": "Clear",
-    "ja": "クリア"
+    "ja": "クリア",
+	"id": "Bersihkan"
   },
   "No": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/No/Text",
     "en": "No",
-    "ja": "いいえ"
+    "ja": "いいえ",
+	"id": "Tidak"
   },
   "Yes": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Neutral/NotRecording/Yes/Text",
     "en": "Yes",
-    "ja": "はい"
+    "ja": "はい",
+	"id": "Ya"
   },
   "Fun": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Fun/NotRecording/Record/Text",
     "en": "Fun",
-    "ja": "Fun"
+    "ja": "Fun",
+	"id": "Senang"
   },
   "Angry": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Angry/NotRecording/Record/Text",
     "en": "Angry",
-    "ja": "Angry"
+    "ja": "Angry",
+	"id": "Marah"
   },
   "Joy": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Joy/NotRecording/Record/Text",
     "en": "Joy",
-    "ja": "Joy"
+    "ja": "Joy",
+	"id": "Bahagia"
   },
   "Sorrow": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Sorrow/NotRecording/Record/Text",
     "en": "Sorrow",
-    "ja": "Sorrow"
+    "ja": "Sorrow",
+	"id": "Sedih"
   },
   "Surprised": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/RecordButtons/Surprise/NotRecording/Record/Text",
     "en": "Surprised",
-    "ja": "Surprised"
+    "ja": "Surprised",
+	"id": "Terkejut"
   },
   "Stop recording neutral": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/NeutralRed/Text",
     "en": "Stop recording neutral",
-    "ja": "Neutralの録音を停止する"
+    "ja": "Neutralの録音を停止する",
+	"id": "Berhenti rekam netral"
   },
   "Stop recording fun": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/FunRed/Text",
     "en": "Stop recording fun",
-    "ja": "Funの録音を停止する"
+    "ja": "Funの録音を停止する",
+	"id": "Berhenti rekam senang"
   },
   "Stop recording angry": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/AngryRed/Text",
     "en": "Stop recording angry",
-    "ja": "Angryの録音を停止する"
+    "ja": "Angryの録音を停止する",
+	"id": "Berhenti rekam marah"
   },
   "Stop recording joy": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/JoyRed/Text",
     "en": "Stop recording joy",
-    "ja": "Joyの録音を停止する"
+    "ja": "Joyの録音を停止する",
+	"id": "Berhenti rekam bahagia"
   },
   "Stop recording sorrow": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/SorrowRed/Text",
     "en": "Stop recording sorrow",
-    "ja": "Sorrowの録音を停止する"
+    "ja": "Sorrowの録音を停止する",
+	"id": "Berhenti rekam sedih"
   },
   "Stop recording surprised": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/SingleRecordingButtons/SurpriseRed/Text",
     "en": "Stop recording surprised",
-    "ja": "Surprisedの録音を停止する"
+    "ja": "Surprisedの録音を停止する",
+	"id": "Berhenti rekam terkejut"
   },
   "Calibrate": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Calibrate/Text",
     "en": "Calibrate",
-    "ja": "較正する"
+    "ja": "較正する",
+	"id": "Kalibrasi"
   },
   "Effects settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Title",
     "en": "Effect settings\n",
-    "ja": "後処理設定\n"
+    "ja": "後処理設定\n",
+	"id": "Pengaturan Efek\n"
   },
   "General": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/General/Text",
     "en": "General",
-    "ja": "一般設定"
+    "ja": "一般設定",
+	"id": "Umum"
   },
   "Bloom": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Bloom/Text",
     "en": "Bloom",
-    "ja": "ブルーム"
+    "ja": "ブルーム",
+	"id": "Bloom"
   },
   "Ambient occlusion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Ambient occlusion/Text",
     "en": "Ambient occlusion",
-    "ja": "アンビエントオクルージョン"
+    "ja": "アンビエントオクルージョン",
+	"id": "Ambient occulsion"
   },
   "Lens distortion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Lens distortion/Text",
     "en": "Lens distortion",
-    "ja": "レンズ歪み"
+    "ja": "レンズ歪み",
+	"id": "Distorsi lensa"
   },
   "Chromatic aberration": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Chromatic aberration/Text",
     "en": "Chromatic aberration",
-    "ja": "色収差"
+    "ja": "色収差",
+	"id": "Aberasi chromatic"
   },
   "Color": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Color/Text",
     "en": "Color",
-    "ja": "色調整"
+    "ja": "色調整",
+	"id": "Warna"
   },
   "Grain": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Grain/Text",
     "en": "Grain",
-    "ja": "グレイン"
+    "ja": "グレイン",
+	"id": "Grain"
   },
   "Halftone": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tab buttons/Halftone dots/Text",
     "en": "Halftone",
-    "ja": "ハーフトーン"
+    "ja": "ハーフトーン",
+	"id": "Halftone"
   },
   "Enable post processing effects": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Enable/Label",
     "en": "Enable post processing effects",
-    "ja": "後処理を有効にする"
+    "ja": "後処理を有効にする",
+	"id": "Nyalakan efek post proses"
   },
   "Improve anti-aliasing (SMAA)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Improve anti-aliasing/Label",
     "en": "Improve anti-aliasing (SMAA)",
-    "ja": "アンチエイリアシングを強化する (SMAA)"
+    "ja": "アンチエイリアシングを強化する (SMAA)",
+	"id": "Tingkatkan anti aliasing (SMAA)"
   },
   "Enable broken effects": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Enable broken/Label",
     "en": "Enable broken effects",
-    "ja": "Enable broken effects"
+    "ja": "Enable broken effects",
+	"id": "Aktifkan efek rusak"
   },
   "Post processing effects will increase system load. They are currently still experimental and may not always produce the desired results. Specifically, they basically do not affect areas outside the avatar.\n\nOn my system, enabling post processing and all effects slightly increases CPU utilization and slightly more than doubles GPU utilization. Enabling less effects will have less impact, so only enable what you actually need.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/General tab/General/Text",
     "en": "\nPost processing effects will increase system load. They are currently still experimental and may not always produce the desired results. Specifically, they basically do not affect areas outside the avatar.\n\nOn my system, enabling post processing and all effects slightly increases CPU utilization and slightly more than doubles GPU utilization. Enabling less effects will have less impact, so only enable what you actually need.",
-    "ja": "\nPost processing effects will increase system load. They are currently still experimental and may not always produce the desired results. Specifically, they basically do not affect areas outside the avatar.\n\nOn my system, enabling post processing and all effects slightly increases CPU utilization and slightly more than doubles GPU utilization. Enabling less effects will have less impact, so only enable what you actually need."
+    "ja": "\nPost processing effects will increase system load. They are currently still experimental and may not always produce the desired results. Specifically, they basically do not affect areas outside the avatar.\n\nOn my system, enabling post processing and all effects slightly increases CPU utilization and slightly more than doubles GPU utilization. Enabling less effects will have less impact, so only enable what you actually need.",
+	"id": "\nEfek post proses akan membuat beban sistem bertambah. Sedang dalam status uji coba dan mungkin tidak akan selalu efek yang di inginkan. Spesifik nya, efek tidak akan berpengaruh pada area di luar avatar.\n\nPada sistem saya, menyalakan post proses dan semua efek sedikit meningkatkan pemakaian cpu dan 2x pemakaian gpu. Meyalakan sedikit efek akan menimbulkan efek yang kecil, jadi nyalakan yang hanya di perlukan saja."
   },
   "Enable": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Enabled/Label",
     "en": "Enable",
-    "ja": "有効にする"
+    "ja": "有効にする",
+	"id": "Nyalakan"
   },
   "Don't cut at edge": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Enabled/Fix alpha/Label",
     "en": "Don't cut at edge",
-    "ja": "Don't cut at edge"
+    "ja": "Don't cut at edge",
+	"id": "Jangan potong di sudut"
   },
   "#FFFFFF": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Hex color/InputField/Placeholder",
     "en": "#FFFFFF",
-    "ja": "#FFFFFF"
+    "ja": "#FFFFFF",
+	"id": "#FFFFFF"
   },
   "Color intensity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Color intensity/Text",
     "en": "Color intensity",
-    "ja": "色の明るさ"
+    "ja": "色の明るさ",
+	"id": "Intensitas warna"
   },
   "Intensity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Intensity/Text",
     "en": "Intensity",
-    "ja": "強度"
+    "ja": "強度",
+	"id": "Intensitas"
   },
   "Threshold": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Threshold/Text",
     "en": "Threshold",
-    "ja": "しきい値"
+    "ja": "しきい値",
+	"id": "Treshold"
   },
   "Diffusion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Diffusion/Text",
     "en": "Diffusion",
-    "ja": "拡散"
+    "ja": "拡散",
+	"id": "Diffusion"
   },
   "Transparent bloom  strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Alpha/Text",
     "en": "Transparent bloom strength",
-    "ja": "Transparent bloom strength"
+    "ja": "Transparent bloom strength",
+	"id": "Kekuatan bloom transparan"
   },
   "Reset settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Bloom/Reset/Text",
     "en": "Reset settings",
-    "ja": "リセット"
+    "ja": "リセット",
+	"id": "Reset pengaturan"
   },
   "Radius": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Ambient occlusion/Radius/Text",
     "en": "Radius",
-    "ja": "半径"
+    "ja": "半径",
+	"id": "Radius"
   },
   "Quality": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality",
     "en": "Quality",
-    "ja": "質"
+    "ja": "質",
+	"id": "Kualitas"
   },
   "Ultra": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:4",
