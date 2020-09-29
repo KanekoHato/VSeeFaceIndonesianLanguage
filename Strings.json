@@ -743,7 +743,7 @@
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Size/Text",
     "en": "Size",
     "ja": "Size",
-	"id": "Ukkuran"
+	"id": "Ukuran"
   },
   "Luminance contribution": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Grain/Luminance contribution/Text",
@@ -784,57 +784,68 @@
   "Dot size factor": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Effect settings/Tabs/Halftone dots/Dot size factor/Text",
     "en": "Dot size factor",
-    "ja": "Dot size factor"
+    "ja": "Dot size factor",
+	"id": "Faktor ukuran Dot"
   },
   "Leap Motion tracking hotkey": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Toggle leap motion hotkey/Label",
     "en": "Leap Motion tracking hotkey",
-    "ja": "Leap Motion tracking hotkey"
+    "ja": "Leap Motion tracking hotkey",
+	"id": "Hotkey pelacakan leap motion"
   },
   "Button": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Toggle leap motion hotkey/Button/Text",
     "en": "Button",
-    "ja": "Button"
+    "ja": "Button",
+	"id": "Tombol"
   },
   "Position: Right/left": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position X/Text",
     "en": "Position: Right/left",
-    "ja": "Position: Right/left"
+    "ja": "Position: Right/left",
+	"id": "Posisi : Kir/kanan"
   },
   "Position: Height": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position Y/Text",
     "en": "Position: Height",
-    "ja": "Position: Height"
+    "ja": "Position: Height",
+	"id": "Posisi: Tinggi"
   },
   "Position: Forward": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position Z/Text",
     "en": "Position: Forward",
-    "ja": "Position: Forward"
+    "ja": "Position: Forward",
+	"id": "Posisi: Depan"
   },
   "Transition time: Up (0-2s)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Transition time in/Text",
     "en": "Transition time: Up (0-2s)",
-    "ja": "Transition time: Up (0-2s)"
+    "ja": "Transition time: Up (0-2s)",
+	"id": "Waktu transisi: Naik (0-2s)"
   },
   "Detection range (0.3-1m)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Range limit/Toggle/Label",
     "en": "Detection range (0.3-1m)",
-    "ja": "Detection range (0.3-1m)"
+    "ja": "Detection range (0.3-1m)",
+	"id": "Jarak deteksi (0.3-1m)"
   },
   "Position: Attachment": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position: Attachment/Text",
     "en": "Position: Attachment",
-    "ja": "Position: Attachment"
+    "ja": "Position: Attachment",
+	"id": "Posisi: Attachment"
   },
   "Flat on desk": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
     "en": "Flat on desk",
-    "ja": "Flat on desk"
+    "ja": "Flat on desk",
+	"id": "Rata di meja"
   },
   "Rotation X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation X/Text",
     "en": "Rotation X",
-    "ja": "Rotation X"
+    "ja": "Rotation X",
+	"id": "Rotasi X"
   },
   "Rotation Y": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation Y/Text",
