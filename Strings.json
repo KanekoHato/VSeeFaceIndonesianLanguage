@@ -299,7 +299,7 @@
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/General settings/Text",
     "en": "General settings",
     "ja": "一般設定",
-	"id": "Pilihan Avatar"
+	"id": "Pengaturan umum"
   },
   "Leap Motion settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Menu right/Settings/Hide settings/Leap Motion settings/Text",
@@ -839,7 +839,7 @@
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:0",
     "en": "Flat on desk",
     "ja": "Flat on desk",
-	"id": "Rata di meja"
+	"id": "Flat on desk"
   },
   "Rotation X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation X/Text",
@@ -850,47 +850,56 @@
   "Rotation Y": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation Y/Text",
     "en": "Rotation Y",
-    "ja": "Rotation Y"
+    "ja": "Rotation Y",
+	"id": "Rotasi Y"
   },
   "Rotation Z": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation Z/Text",
     "en": "Rotation Z",
-    "ja": "Rotation Z"
+    "ja": "Rotation Z",
+	"id": "Rotasi Z"
   },
   "Transition time: Down (0-2s)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Transition time out/Text",
     "en": "Transition time: Down (0-2s)",
-    "ja": "Transition time: Down (0-2s)"
+    "ja": "Transition time: Down (0-2s)",
+	"id": "Waktu transisi: Down (0-2s)"
   },
   "Hands down delay (0-2s)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Grace time/Text",
     "en": "Hands down delay (0-2s)",
-    "ja": "Hands down delay (0-2s)"
+    "ja": "Hands down delay (0-2s)",
+	"id": "Delay hands down (0-2s)"
   },
   "Hands mode": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Hands mode/Text",
     "en": "Hands mode",
-    "ja": "Hands mode"
+    "ja": "Hands mode",
+	"id": "Mode tangan"
   },
   "No swap": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:0",
     "en": "No swap",
-    "ja": "No swap"
+    "ja": "No swap",
+	"id": "Rotasi Z"
   },
   "Desktop Mode": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:2",
     "en": "Desktop Mode",
-    "ja": "Desktop Mode"
+    "ja": "Desktop Mode",
+	"id": "Mode Desktop"
   },
   "Focal length (6-135mm)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Field of view/Text",
     "en": "Focal length (6-135mm)",
-    "ja": "Focal length (6-135mm)"
+    "ja": "Focal length (6-135mm)",
+	"id": "Focal length (6-135mm)"
   },
   "Blink sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Blink sensitivity/Text",
     "en": "Blink sensitivity",
-    "ja": "Blink sensitivity"
+    "ja": "Blink sensitivity",
+	"id": "Sensitivitas kedipan"
   },
   "Gaze strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze strength/Text",
