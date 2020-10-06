@@ -214,7 +214,7 @@
     "en": "Tracking Quality",
     "ja": "トラッキング質",
     "es": "Calidad de Captura de Movimiento",
-    "id": "Pelacakan"
+    "id": "tracking"
   },
   "High quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:0",
@@ -291,7 +291,7 @@
     "en": "Failed to start tracker. This is most likely caused by a corrupted installation.",
     "ja": "Failed to start tracker. This is most likely caused by a corrupted installation.",
     "es": "Fallo de inicio de captura de movimiento. Esto es posible debido a una instalación incompleta o corrupta",
-    "id": "Gagal memulai pelacakan. Kemungkinan karena installasi yang korup."
+    "id": "Gagal memulai tracking. Kemungkinan karena installasi yang korup."
   },
   "Open logs": {
     "comment": "VSeeFace/Canvas/UI/ErrorUI/Open logs/Text",
@@ -305,7 +305,7 @@
     "en": "[Error]\nTracker process is gone. Toggle face tracking off and on in the \"General settings\" to restart it. This issue is most likely caused by incompatible camera settings. You can try changing them on the starting screen. It could also be caused by a corrupted installation.",
     "ja": "[Error]\nTracker process is gone. Toggle face tracking off and on in the \"General settings\" to restart it. This issue is most likely caused by incompatible camera settings. You can try changing them on the starting screen. It could also be caused by a corrupted installation.",
     "es": "[Error]\nEl proceso de  captura de movimiento fue cerrado. Apaga y prende la captura de movimiento en el menu \"Configuración General\" para reiniciarlo. Este problema puede ser causado por incompatibilidad de la configuración de captura con tu cámara. Puedes intentar reinciar el programa y cambiarlas en la pantalla de inicio de VSeeFace. Esto puede ser causado tambien por una instalación incompleta o corrupta del programa.",
-    "id": "[Error]\nProses pelacakan hilang. Matikan dan nyalakan pelacakan wajah di \"Pengaturan umum\" untuk me restart. Ini dapat di sebabkan oleh pengaturan kamera yang tidak cocok. Kamu dapat mencoba mengubah nya di jendela awal. Bisa juga di sebabkan oleh installasi yang korup."
+    "id": "[Error]\nProses tracking hilang. Matikan dan nyalakan tracking wajah di \"Pengaturan umum\" untuk me restart. Ini dapat di sebabkan oleh pengaturan kamera yang tidak cocok. Kamu dapat mencoba mengubah nya di jendela awal. Bisa juga di sebabkan oleh installasi yang korup."
   },
   "X": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Hints/X/Text",
@@ -921,7 +921,7 @@
     "en": "Leap Motion tracking hotkey",
     "ja": "Leap Motion tracking hotkey",
     "es": "Atajo para Captura de LeapMotion",
-    "id": "Hotkey pelacakan leap motion"
+    "id": "Hotkey tracking leap motion"
   },
   "Button": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Toggle leap motion hotkey/Button/Text",
@@ -991,518 +991,518 @@
     "en": "Rotation Y",
     "ja": "Rotation Y",
     "es": "Rotación Y",
-    "id": null
+    "id": "Rotasi Y"
   },
   "Rotation Z": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Rotation Z/Text",
     "en": "Rotation Z",
     "ja": "Rotation Z",
     "es": "Rotación Z",
-    "id": null
+    "id": "Rotasi z"
   },
   "Transition time: Down (0-2s)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Transition time out/Text",
     "en": "Transition time: Down (0-2s)",
     "ja": "Transition time: Down (0-2s)",
     "es": "Tiempo de transición: Abajo (0-2s)",
-    "id": null
+    "id": "Waktu transisi: Turun (0-2s)"
   },
   "Hands down delay (0-2s)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Grace time/Text",
     "en": "Hands down delay (0-2s)",
     "ja": "Hands down delay (0-2s)",
     "es": "Retraso de activación de manos (0-2s)",
-    "id": null
+    "id": "Delay tangan turun (0-2s)"
   },
   "Hands mode": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Leap Motion settings/Right column/Hands mode/Text",
     "en": "Hands mode",
     "ja": "Hands mode",
     "es": "Modo Manos",
-    "id": null
+    "id": "Mode tangan"
   },
   "No swap": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:0",
     "en": "No swap",
     "ja": "No swap",
     "es": "Sin cambio de mano",
-    "id": null
+    "id": "No swap"
   },
   "Desktop Mode": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:2",
     "en": "Desktop Mode",
     "ja": "Desktop Mode",
     "es": "Modo Escritorio",
-    "id": null
+    "id": "Mode Desktop"
   },
   "Focal length (6-135mm)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Field of view/Text",
     "en": "Focal length (6-135mm)",
     "ja": "Focal length (6-135mm)",
     "es": "Longitud Focal (6-135mm)",
-    "id": null
+    "id": "Panjang vokal (6-135mm)"
   },
   "Blink sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Blink sensitivity/Text",
     "en": "Blink sensitivity",
     "ja": "Blink sensitivity",
     "es": "Sensibilidad de pestañeo",
-    "id": null
+    "id": "Sensitivitas kedipan"
   },
   "Gaze strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze strength/Text",
     "en": "Gaze strength",
     "ja": "Gaze strength",
     "es": "Intensidad de captura (vista)",
-    "id": null
+    "id": "Kekuatan tatapan"
   },
   "Gaze sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze sensitivity/Text",
     "en": "Gaze sensitivity",
     "ja": "Gaze sensitivity",
     "es": "Sensibilidad (vista)",
-    "id": null
+    "id": "Sensitivitas tatapan"
   },
   "Gaze offset up/down": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze up/down/Text",
     "en": "Gaze offset up/down",
     "ja": "Gaze offset up/down",
     "es": "Compensación (vista) Arriba/Abajo",
-    "id": null
+    "id": "Offset tatapan naik/turun"
   },
   "Gaze offset left/right": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Gaze left/right/Text",
     "en": "Gaze offset left/right",
     "ja": "Gaze offset left/right",
     "es": "Compensación (vista) izquierda/derecha",
-    "id": null
+    "id": "Offset tatapan kiri/kanan"
   },
   "Eyebrow strength": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Eyebrow strength/Text",
     "en": "Eyebrow strength",
     "ja": "Eyebrow strength",
     "es": "Intensidad de Cejas",
-    "id": null
+    "id": "Kekuatan alis"
   },
   "Eyebrow sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Eyebrow sensitivity/Text",
     "en": "Eyebrow sensitivity",
     "ja": "Eyebrow sensitivity",
     "es": "Sensibilidad de Cejas",
-    "id": null
+    "id": "Sensitivitas alis"
   },
   "Eyebrow offset": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Eyebrow offset/Text",
     "en": "Eyebrow offset",
     "ja": "Eyebrow offset",
     "es": "Compensación de Cejas",
-    "id": null
+    "id": "Offset alis"
   },
   "Lip  sync smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Viseme smoothing/Text",
     "en": "Lip  sync smoothing",
     "ja": "Lip  sync smoothing",
     "es": "Suavizado Lip Sync",
-    "id": null
+    "id": "Perhalus lip sync"
   },
   "Lip sync audio overdrive gain": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Viseme gain/Text",
     "en": "Lip sync audio overdrive gain",
     "ja": "Lip sync audio overdrive gain",
     "es": "Incremento de ganancia de Lip Sync (ovedrive)",
-    "id": null
+    "id": "Gain lip sync overdrive audio"
   },
   "Mouth sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth sensitivity/Text",
     "en": "Mouth sensitivity",
     "ja": "Mouth sensitivity",
     "es": "Sensibilidad (boca)",
-    "id": null
+    "id": "Sensitivitas mulut"
   },
   "Mouth smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth smoothing/Text",
     "en": "Mouth smoothing",
     "ja": "Mouth smoothing",
     "es": "Suavizado (boca)",
-    "id": null
+    "id": "Perhalus mulut"
   },
   "Mouth size reduction": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Mouth reduction/Text",
     "en": "Mouth size reduction",
     "ja": "Mouth size reduction",
     "es": "Reducción de tamaño (Boca)",
-    "id": null
+    "id": "Reduksi ukuran mulut"
   },
   "Arm angle": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Arm angle/Text",
     "en": "Arm angle",
     "ja": "Arm angle",
     "es": "Angulo de Brazos",
-    "id": null
+    "id": "Angel tangan"
   },
   "Shoulder stiffness": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Shoulder stiffness/Text",
     "en": "Shoulder stiffness",
     "ja": "Shoulder stiffness",
     "es": "Rigidez de hombros",
-    "id": null
+    "id": "Kekakuan pundak"
   },
   "Body stiffness": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Body stiffness/Text",
     "en": "Body stiffness",
     "ja": "Body stiffness",
     "es": "Rigidez de cuerpo",
-    "id": null
+    "id": "Ke kakuan badan"
   },
   "Expression stabilizer": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Expression stabilizer/Text",
     "en": "Expression stabilizer",
     "ja": "Expression stabilizer",
     "es": "Estabilización de expresiones",
-    "id": null
+    "id": "Stabilizer expresi"
   },
   "Expression smoothing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Simple expression smoothing/Text",
     "en": "Expression smoothing",
     "ja": "Expression smoothing",
     "es": "Suavizado de expresiones",
-    "id": null
+    "id": "Perhalus expresi"
   },
   "Expression sensitivity": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Simple expression sensitivity/Text",
     "en": "Expression sensitivity",
     "ja": "Expression sensitivity",
     "es": "Sensibilidad (expresiones)",
-    "id": null
+    "id": "Sensitivitas expresi"
   },
   "Auto blink": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label/Compensation type/Option:1",
     "en": "Auto blink",
     "ja": "Auto blink",
     "es": "Auto pestañeo",
-    "id": null
+    "id": "Otomatis kedip"
   },
   "Link eye blinks": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Link eye blinks/Label",
     "en": "Link eye blinks",
     "ja": "Link eye blinks",
     "es": "Unir pestañeos (simultaneo)",
-    "id": null
+    "id": "Link kedipan mata"
   },
   "Smooth auto blink": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Smooth auto blink/Label",
     "en": "Smooth auto blink",
     "ja": "Smooth auto blink",
     "es": "Suavizado (Auto Pestañeo)",
-    "id": null
+    "id": "Kedipan otomatis halus"
   },
   "Synthetic gaze": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label",
     "en": "Synthetic gaze",
     "ja": "Synthetic gaze",
     "es": "Vista Sintética (apagar detección de la vista)",
-    "id": null
+    "id": "Tatapan sintetis"
   },
   "Follow head movement": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Synthetic gaze/Label/Synthetic gaze type/Option:0",
     "en": "Follow head movement",
     "ja": "Follow head movement",
     "es": "Seguir movimiento de la cabeza",
-    "id": null
+    "id": "Ikuti gerakan kepala"
   },
   "Audio lip sync (Hotkey:                                 )": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Audio lip sync/Label",
     "en": "Audio lip sync (Hotkey:                                 )",
     "ja": "Audio lip sync (Hotkey:                                 )",
     "es": "Lipsync por audio (Atajo:                                 )",
-    "id": null
+    "id": "Hotkey lip sync audio:"
   },
   "Always use full lip sync animation": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Maximize visemes/Label",
     "en": "Always use full lip sync animation",
     "ja": "Always use full lip sync animation",
     "es": "Siempre usar la animación completa para lip sync",
-    "id": null
+    "id": "Selalu gunakan animasi lip sync penuh"
   },
   "Hybrid lip sync/mouth tracking": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Hybrid lip sync/Label",
     "en": "Hybrid lip sync/mouth tracking",
     "ja": "Hybrid lip sync/mouth tracking",
     "es": "Captura de boca y lip sync hibrida",
-    "id": null
+    "id": "Hybrid lip syng/tracking mulut"
   },
   "Avatar locomotion": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Avatar locomotion/Label",
     "en": "Avatar locomotion",
     "ja": "Avatar locomotion",
     "es": "Locomoción de avatar",
-    "id": null
+    "id": "Avatar locomotion"
   },
   "Mirror image while UI hidden with ※ button": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Mirror image/Label",
     "en": "Mirror image while UI hidden with ※ button",
     "ja": "Mirror image while UI hidden with ※ button",
     "es": "Hacer espejo de cpatura cuando la interfaz se oculte con el boton ※ ",
-    "id": null
+    "id": "Pantulkan gambar ketika UI di sembunyikan dengan tombol ※"
   },
   "Default camera position": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label",
     "en": "Default camera position",
     "ja": "Default camera position",
     "es": "Posición de camera predeterminada",
-    "id": null
+    "id": "Posisi kamera default"
   },
   "Default": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:0",
     "en": "Default",
     "ja": "Default",
     "es": "Predeterminada",
-    "id": null
+    "id": "Default"
   },
   "Save": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Save/Text",
     "en": "Save",
     "ja": "Save",
     "es": "Guardar",
-    "id": null
+    "id": "Simpan"
   },
   "Global reset position hotkey:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Global reset hotkey/Label",
     "en": "Global reset position hotkey:",
     "ja": "Global reset position hotkey:",
     "es": "Atajo para reiniciar la posición (global):",
-    "id": null
+    "id": "Hotkey reset posisi global"
   },
   "Face tracking (disabling means no face movement and saves CPU)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Face tracking/Label",
     "en": "Face tracking (disabling means no face movement and saves CPU)",
     "ja": "Face tracking (disabling means no face movement and saves CPU)",
     "es": "Captura de movimiento facial (Deshabilitarla significa que no tendrás reconocimiento ni movimiento facial, ahorrandote carga en CPU)",
-    "id": null
+    "id": "Tracking wajah (mati = tanpa tracking, menguraki kerja CPU)"
   },
   "Expression detection": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Expression detection",
     "en": "Expression detection",
     "ja": "Expression detection",
     "es": "Deteccion de expresiones",
-    "id": null
+    "id": "Deteksi expresi"
   },
   "None": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/No expression detection/Label",
     "en": "None",
     "ja": "None",
     "es": "Ninguno",
-    "id": null
+    "id": "None"
   },
   "Simple (fun, angry, surprised only)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple expression detection/Label",
     "en": "Simple (fun, angry, surprised only)",
     "ja": "Simple (fun, angry, surprised only)",
     "es": "Simple (fun, angry, surprised only)",
-    "id": null
+    "id": "Simpel (senang,marah,terkejut saja)"
   },
   "Graphics settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Graphics title",
     "en": "Graphics settings",
     "ja": "Graphics settings",
     "es": "Configuració gráfica",
-    "id": null
+    "id": "Pengaturan grafis"
   },
   "Allow window resizing": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resizable window/Label",
     "en": "Allow window resizing",
     "ja": "Allow window resizing",
     "es": "Pemitir ajustar tamaño de ventana",
-    "id": null
+    "id": "Ijinkan resize jendela"
   },
   "Anti-aliasing:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label",
     "en": "Anti-aliasing:",
     "ja": "Anti-aliasing:",
     "es": "Anti-aliasing:",
-    "id": null
+    "id": "Anti-aliasing:"
   },
   "Really nice": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Label/Anti-aliasing quality/Option:0",
     "en": "Really nice",
     "ja": "Really nice",
     "es": "Super limpio",
-    "id": null
+    "id": "Sangat bagus"
   },
   "(high GPU load)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Anti-aliasing/Warning",
     "en": "(high GPU load)",
     "ja": "(high GPU load)",
     "es": "(Carga de GPU alta)",
-    "id": null
+    "id": "(load GPU tinggu)"
   },
   "Resolution:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolution",
     "en": "Resolution:",
     "ja": "Resolution:",
     "es": "Resolución:",
-    "id": null
+    "id": "Resolusi:"
   },
   "1600x900": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Resolutions/Option:3",
     "en": "1600x900",
     "ja": "1600x900",
     "es": "1600x900",
-    "id": null
+    "id": "1600x900"
   },
   "Set": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Resolution wrapper/Custom/Set/Text",
     "en": "Set",
     "ja": "Set",
     "es": "Ajustar",
-    "id": null
+    "id": "Set"
   },
   "VSync": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/VSync/Label",
     "en": "VSync",
     "ja": "VSync",
     "es": "VSync",
-    "id": null
+    "id": "VSync"
   },
   "Cap frame rate:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/Cap/Label",
     "en": "Cap frame rate: ",
     "ja": "Cap frame rate: ",
     "es": "Limite de cuadros por segundo: ",
-    "id": null
+    "id": "Cap frame rate:"
   },
   "60": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Frame rate toggles/Cap/Label/FPS cap/Placeholder",
     "en": "60",
     "ja": "60",
     "es": "60",
-    "id": null
+    "id": "60"
   },
   "Device settings": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Devices title",
     "en": "Device settings",
     "ja": "Device settings",
     "es": "Configuración de dispositivo",
-    "id": null
+    "id": "Pengaturan perangkat"
   },
   "Virtual camera": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Virtual camera title",
     "en": "Virtual camera",
     "ja": "Virtual camera",
     "es": "Camara Virtual",
-    "id": null
+    "id": "Kamera virtual"
   },
   "When enabled, a virtual webcam will export the VSeeFace picture. The UI will never be shown on the camera. Note that Discord will show your own camera mirrored, but other people will see it correctly.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Virtual camera description",
     "en": "When enabled, a virtual webcam will export the VSeeFace picture. The UI will never be shown on the camera. Note that Discord will show your own camera mirrored, but other people will see it correctly.",
     "ja": "When enabled, a virtual webcam will export the VSeeFace picture. The UI will never be shown on the camera. Note that Discord will show your own camera mirrored, but other people will see it correctly.",
     "es": "Cuando este es activado, una camara virtual transmitirá la imagen de VSeeFace a cualquier cliente. La interfaz nunca será mostrada en la cámara. Ten en cuenta que Discord mostrará tu propia camara en espejo, pero todos los demás lo verán de manera correcta.",
-    "id": null
+    "id": "Ketika di aktifkan, kamera virtual akan menampilkan gambar VSeeFace. UI tidak akan di tampilkan di kamera. Discord menampilkan kamera dengan mirrored, tapi orang lain akan melihat nya dengan benar."
   },
   "Enable virtual camera for this session": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Enable virtual camera for this session/Label",
     "en": "Enable virtual camera for this session",
     "ja": "Enable virtual camera for this session",
     "es": "Habilitar la camara virtual para esta sesión",
-    "id": null
+    "id": "Nyalakan kamera virtual untuk sesi ini"
   },
   "Low latency": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Low latency/Label",
     "en": "Low latency",
     "ja": "Low latency",
     "es": "Baja Latencia",
-    "id": null
+    "id": "Latensi rendah"
   },
   "Install virtual camera": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Register camera/Install/Text",
     "en": "Install virtual camera",
     "ja": "Install virtual camera",
     "es": "Instalar camara virtual",
-    "id": null
+    "id": "Pasang kamera virtual"
   },
   "Uninstall virtual camera": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Register camera/Uninstall/Text",
     "en": "Uninstall virtual camera",
     "ja": "Uninstall virtual camera",
     "es": "Desinstalar camara virtual",
-    "id": null
+    "id": "Lepas kamera virtual"
   },
   "Load background image": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Load background image/Text",
     "en": "Load background image",
     "ja": "Load background image",
     "es": "Cargar imagen de fondo",
-    "id": null
+    "id": "Muat gambar latar"
   },
   "Background image": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Background",
     "en": "Background image",
     "ja": "Background image",
     "es": "Imagen de fondo",
-    "id": null
+    "id": "Gambar latar"
   },
   "Unload image": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Unload image container/Unload image/Text",
     "en": "Unload image",
     "ja": "Unload image",
     "es": "Remover imagen de fondo",
-    "id": null
+    "id": "Buang gambar latar"
   },
   "Advanced": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Advanced",
     "en": "Advanced",
     "ja": "Advanced",
     "es": "Opciones avanzadas",
-    "id": null
+    "id": "Advanced"
   },
   "Less mesh updates (may make parts of avatar disappear, faster with many meshes)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Update offscreen/Label",
     "en": "Less mesh updates (may make parts of avatar disappear, faster with many meshes)",
     "ja": "Less mesh updates (may make parts of avatar disappear, faster with many meshes)",
     "es": "Menos actualizaciones de malla (Puede que haga algunas mallas del modelo desaparecer, en modelos con muchas mallas incrementa la eficiencia y desempeño)",
-    "id": null
+    "id": "Less mesh updates (mungkin membuat bagian avatar hilang, lebih cepat dengan banyak mesh)"
   },
   "Use old lip sync model (lower accuracy)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Lip sync provider/Label",
     "en": "Use old lip sync model (lower accuracy)",
     "ja": "Use old lip sync model (lower accuracy)",
     "es": "Usar el modelo viejo para lip sync (menor certeza en captura)",
-    "id": null
+    "id": "Gunakan model lip sync lama"
   },
   "Factory reset": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Facory reset/Text",
     "en": "Factory reset",
     "ja": "Factory reset",
     "es": "Restaurar valores originales",
-    "id": null
+    "id": "Reset pabrik"
   },
   "Load and play audio": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Canned audio/Load and play audio/Text",
     "en": "Load and play audio",
     "ja": "Load and play audio",
     "es": "Cargar y reproducir audio",
-    "id": null
+    "id": "Muat dan mainkan audio"
   },
   "Stop audio": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Canned audio/Stop audio/Text",
     "en": "Stop audio",
     "ja": "Stop audio",
     "es": "Detener audio",
-    "id": null
+    "id": "Stop audio"
   },
   "Show tracking points": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Tracking points/Show tracking points/Text",
     "en": "Show tracking points",
     "ja": "Show tracking points",
     "es": "Mostrar puntos de captura",
-    "id": null
+    "id": "Tampilkan titik tracking"
   },
   "Hide tracking points": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Buttons/Tracking points/Hide tracking points/Text",
     "en": "Hide tracking points",
     "ja": "Hide tracking points",
     "es": "Ocultar puntos de captura",
-    "id": null
+    "id": "Sembunyikan titik tracking"
   },
   "Sun": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Tabs/Sun/Text",
