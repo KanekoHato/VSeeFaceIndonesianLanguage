@@ -1523,7 +1523,7 @@
     "en": "Shadows",
     "ja": "Shadows",
     "es": "Sombras",
-    "id": null
+    "id": "Bayangan"
   },
   "Save pos.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/Light settings/Sun settings/Buttons/Save/Text",
@@ -1544,7 +1544,7 @@
     "en": "Ambient intensity",
     "ja": "Ambient intensity",
     "es": "Intensidad de ambiente",
-    "id": null
+    "id": "Intensitas ambient"
   },
   "OK": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyInvalid/Button/Text",
@@ -1558,14 +1558,14 @@
     "en": "FPS\t?\nTR\t?",
     "ja": "FPS\t?\nTR\t?",
     "es": "FPS\t?\nTR\t?",
-    "id": null
+    "id": "FPS\t?\nTR\t?"
   },
   "New Text": {
     "comment": "LocalizationTools/Dummy/Expression config/Expression title",
     "en": "New Text",
     "ja": "New Text",
     "es": "Nuevo texto",
-    "id": null
+    "id": "Text Baru"
   },
   "Base": {
     "comment": "LocalizationTools/Dummy/Expression config/Base/Label",
@@ -1586,21 +1586,21 @@
     "en": "Enable eye blinking",
     "ja": "まばたきのアニメーション",
     "es": "Habilitar pestañeo",
-    "id": null
+    "id": "Nyalakan kedipan mata"
   },
   "Enable mouth animation": {
     "comment": "LocalizationTools/Dummy/Expression config/Mouth checkbox/Label",
     "en": "Enable mouth animation",
     "ja": "口のアニメーション",
     "es": "Habilitar animación de boca",
-    "id": null
+    "id": "Nyalakan animasi mulut"
   },
   "Enable eyebrow animation": {
     "comment": "LocalizationTools/Dummy/Expression config/Brow checkbox/Label",
     "en": "Enable eyebrow animation",
     "ja": "眉毛のアニメーション",
     "es": "Habilitar animacion de cejas",
-    "id": null
+    "id": "Nyalakan animasi alis"
   },
   "Hold": {
     "comment": "LocalizationTools/Dummy/Expression config/Trigger/Label",
@@ -1635,70 +1635,70 @@
     "en": "Medium quality",
     "ja": "Medium quality",
     "es": "Calidad Media",
-    "id": null
+    "id": "Kualitas medium"
   },
   "Barely okay quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:2",
     "en": "Barely okay quality",
     "ja": "Barely okay quality",
     "es": "Calidad \"Aceptable\"",
-    "id": null
+    "id": "Kualitas lumayan"
   },
   "Low quality": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:3",
     "en": "Low quality",
     "ja": "Low quality",
     "es": "Baja Calidad",
-    "id": null
+    "id": "Kualitas rendah"
   },
   "Lowest": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:0",
     "en": "Lowest",
     "ja": "Lowest",
     "es": "Minimo",
-    "id": null
+    "id": "Ter rendah"
   },
   "Low": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:1",
     "en": "Low",
     "ja": "Low",
     "es": "Bajo",
-    "id": null
+    "id": "Rendah"
   },
   "Medium": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:2",
     "en": "Medium",
     "ja": "Medium",
     "es": "Media",
-    "id": null
+    "id": "Medium"
   },
   "High": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Effect settings/Tabs/Ambient occlusion/Quality/Dropdown/Option:3",
     "en": "High",
     "ja": "High",
     "es": "Alta",
-    "id": null
+    "id": "Tinggi"
   },
   "Chest": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:1",
     "en": "Chest",
     "ja": "Chest",
     "es": "Pecho",
-    "id": null
+    "id": "Dada"
   },
   "Head or HMD": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Left column/Position: Attachment/Dropdown/Option:2",
     "en": "Head or HMD",
     "ja": "Head or HMD",
     "es": "Cabeza o HMD",
-    "id": null
+    "id": "Kepala atau HMD"
   },
   "Swap hands": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Swap hands/Option:1",
     "en": "Swap hands",
     "ja": "Swap hands",
     "es": "Intercambiar manos",
-    "id": null
+    "id": "Tukar tangan"
   },
   "Head Mounted A": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/Leap Motion settings/Right column/Hands mode/Mode dropdown/Option:0",
