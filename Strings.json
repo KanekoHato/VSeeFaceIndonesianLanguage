@@ -2069,7 +2069,7 @@
     "en": "<align=\"center\">[Error]</align>\nThe face tracker process is gone. You can try:\n1) Making sure nothing else is using the camera\n2) Toggling face tracking off and on in the \"General settings\" to restart it\n3) Restarting VSeeFace and changing the camera settings\n4) Redownloading VSeeFace and reinstalling it",
     "ja": "<align=\"center\">[Error]</align>\nThe face tracker process is gone. You can try:\n1) Making sure nothing else is using the camera\n2) Toggling face tracking off and on in the \"General settings\" to restart it\n3) Restarting VSeeFace and changing the camera settings\n4) Redownloading VSeeFace and reinstalling it",
     "es": null,
-    "id": null
+    "id": "<align=\"center\">[Error]</align>\nProses tracker hilang. Kamu dapat:\n1) Memastikan kamera tidak di pakai\n2) Nyala dan matikan tracking muka di \"Pengaturan general\" untuk memulai ulang\n3) Me mulai ulang VSeeFace dan ubah pengaturan kamera\n4) Mendownload ulang VSeeFace dan install ulang"
   },
   "Tutorial: Transparency in OBS/SLOBS (1)": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 1/Title",
