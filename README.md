@@ -6,7 +6,9 @@ Owkay !!
 
 
 ## ABOUT VSeeFace
-======================
+
+<img src="https://www.vseeface.icu/assets/img/VSF.png" align="right" width="15%" height="15%" />
+
 WEB :
 https://www.vseeface.icu/
 
@@ -27,9 +29,9 @@ VSeeFace menawarkan fungsionalitas yang mirip dengan LUPPET, 3TENE, WAKARU dan p
 VSeeFace berjalan di Windows 8 dan di atasnya (hanya 64 bit). Ini mungkin berjalan di Windows 7 juga.
 
 
-======================
+
 ## TODO
-======================
+
 ``` r
 Line 1512:     "id": null
 	Line 1519:     "id": null
