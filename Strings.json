@@ -1719,7 +1719,7 @@
     "en": "Look at camera",
     "ja": "Look at camera",
     "es": "Mirar a la camara",
-    "id": null
+    "id": "Lihat ke kamera"
   },
   "Closer": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera position/Label/Position/Option:1",
@@ -1810,28 +1810,28 @@
     "en": "Update available:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Release notes</link></u>)",
     "ja": "更新:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">リリースノート</link></u>)",
     "es": "Update available:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Release notes</link></u>)",
-    "id": null
+    "id": "Update available:\n{version} (<u><link=\"https://gist.github.com/emilianavt/90bc0b73e2713276e6f630db09977eae\">Release notes</link></u>)"
   },
   "Default model made with <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>": {
     "comment": "VSeeFace/Canvas/UI/StartingText/Model credits (TMP)",
     "en": "Default model made with <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>",
     "ja": "サンプルモデルは<u><link=\"https://twitter.com/Cecil_Channel\">スズキセシル</link></u>の<u><link=\"https://fantia.jp/posts/164261\">セシル変身</link></u>アプリで作成されました。",
     "es": "Default model made with <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>",
-    "id": null
+    "id": "Model normal oleh <u><link=\"https://twitter.com/Cecil_Channel\">Suzuki Cecil</link></u>'s <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin App</link></u>",
   },
   "<b>Made by:</b>\n<b><u><link=\"https://twitter.com/Emiliana_vt\">@Emiliana_vt</link></u></b> (<u><link=\"https://www.youtube.com/EmilianaChannel\">YouTube</link></u>, <u><link=\"https://github.com/emilianavt\">GitHub</link></u>)\n<u><link=\"https://twitter.com/Virtual_Deat\">@Virtual_Deat</link></u> (<u><link=\"https://www.youtube.com/channel/UCjWNJAgl0ctB5qfjsh2q05w\">YouTube</link></u>, <u><link=\"https://www.twitch.tv/virtual_deat\">Twitch</link></u>)\n\nUpdates are posted and pinned in #vseeface of <u><link=\"https://discord.com/invite/BjBgk7k\">Deat's Rock Platform</link></u>.\n<size=74%>\n<b>Translations</b>\n\n<u><link=\"https://twitter.com/ENiwatori\">@ENiwatori</link></u> (Spanish)\n<u><link=\"https://twitter.com/KanekoHato\">@KanekoHato</link></u> (Indonesian)\n\n<b>Special Thanks</b>\n\nTo Deat for inspiring me to work on face tracking, help with technical issues, great suggestions, being amazing and finally for joining me in developing VSeeFace! For VR based tracking, check out <u><link=\"http://deatrathias.net/TW/\">Tracking World</link></u>!\n\nAnd to all the wonderful people who helped me test this thing and gave me feedback:\n<u><link=\"https://twitter.com/ENiwatori\">@ENiwatori</link></u>, <u><link=\"https://twitter.com/AngelVayuu\">@AngelVayuu</link></u>, <u><link=\"https://twitter.com/ArgamaWitch\">@ArgamaWitch</link></u>, <u><link=\"https://twitter.com/Ponoki_Chan\">@Ponoki_Chan</link></u>, <u><link=\"https://twitter.com/DapperlyYours\">@DapperlyYours</link></u>, <u><link=\"https://twitter.com/comdost_art\">@comdost_art</link></u>, <u><link=\"https://twitter.com/Yamikow\">@Yamikow</link></u>, <u><link=\"https://twitter.com/proj_bombshell\">@proj_bombshell</link></u>, <u><link=\"https://twitter.com/MVjagaimo\">@MVjagaimo</link></u>, <u><link=\"https://twitter.com/Cadet_Del_Valle\">@Cadet_Del_Valle</link></u>, <u><link=\"https://twitter.com/asa_oiralume\">@Asa_Oiralume</link></u>, <u><link=\"https://twitter.com/_Killakuma\">@_Killakuma</link></u>, <u><link=\"https://twitter.com/cakexchan/\">@cakexchan</link></u>,</size> and everyone else!": {
     "comment": "VSeeFace/Canvas/UI/StartingText/Credits (TMP)",
     "en": "<b>Made by:</b>\n<b><u><link=\"https://twitter.com/Emiliana_vt\">@Emiliana_vt</link></u></b> (<u><link=\"https://www.youtube.com/EmilianaChannel\">YouTube</link></u>, <u><link=\"https://github.com/emilianavt\">GitHub</link></u>)\n<u><link=\"https://twitter.com/Virtual_Deat\">@Virtual_Deat</link></u> (<u><link=\"https://www.youtube.com/channel/UCjWNJAgl0ctB5qfjsh2q05w\">YouTube</link></u>, <u><link=\"https://www.twitch.tv/virtual_deat\">Twitch</link></u>)\n\nUpdates are posted and pinned in #vseeface of <u><link=\"https://discord.com/invite/BjBgk7k\">Deat's Rock Platform</link></u>.\n<size=74%>\n<b>Translations</b>\n\n<u><link=\"https://twitter.com/ENiwatori\">@ENiwatori</link></u> (Spanish)\n<u><link=\"https://twitter.com/KanekoHato\">@KanekoHato</link></u> (Indonesian)\n\n<b>Special Thanks</b>\n\nTo Deat for inspiring me to work on face tracking, help with technical issues, great suggestions, being amazing and finally for joining me in developing VSeeFace! For VR based tracking, check out <u><link=\"http://deatrathias.net/TW/\">Tracking World</link></u>!\n\nAnd to all the wonderful people who helped me test this thing and gave me feedback:\n<u><link=\"https://twitter.com/ENiwatori\">@ENiwatori</link></u>, <u><link=\"https://twitter.com/AngelVayuu\">@AngelVayuu</link></u>, <u><link=\"https://twitter.com/ArgamaWitch\">@ArgamaWitch</link></u>, <u><link=\"https://twitter.com/Ponoki_Chan\">@Ponoki_Chan</link></u>, <u><link=\"https://twitter.com/DapperlyYours\">@DapperlyYours</link></u>, <u><link=\"https://twitter.com/comdost_art\">@comdost_art</link></u>, <u><link=\"https://twitter.com/Yamikow\">@Yamikow</link></u>, <u><link=\"https://twitter.com/proj_bombshell\">@proj_bombshell</link></u>, <u><link=\"https://twitter.com/MVjagaimo\">@MVjagaimo</link></u>, <u><link=\"https://twitter.com/Cadet_Del_Valle\">@Cadet_Del_Valle</link></u>, <u><link=\"https://twitter.com/asa_oiralume\">@Asa_Oiralume</link></u>, <u><link=\"https://twitter.com/_Killakuma\">@_Killakuma</link></u>, <u><link=\"https://twitter.com/cakexchan/\">@cakexchan</link></u>,</size> and everyone else!",
     "ja": "<b>Made by:</b>\n<b><u><link=\"https://twitter.com/Emiliana_vt\">@Emiliana_vt</link></u></b> (<u><link=\"https://www.youtube.com/EmilianaChannel\">YouTube</link></u>, <u><link=\"https://github.com/emilianavt\">GitHub</link></u>)\n<u><link=\"https://twitter.com/Virtual_Deat\">@Virtual_Deat</link></u> (<u><link=\"https://www.youtube.com/channel/UCjWNJAgl0ctB5qfjsh2q05w\">YouTube</link></u>, <u><link=\"https://www.twitch.tv/virtual_deat\">Twitch</link></u>)\n\nUpdates are posted and pinned in #vseeface of <u><link=\"https://discord.com/invite/BjBgk7k\">Deat's Rock Platform</link></u>.\n<size=74%>\n<b>Translations</b>\n\n<u><link=\"https://twitter.com/ENiwatori\">@ENiwatori</link></u> (Spanish)\n<u><link=\"https://twitter.com/KanekoHato\">@KanekoHato</link></u> (Indonesian)\n\n<b>Special Thanks</b>\n\nTo Deat for inspiring me to work on face tracking, help with technical issues, great suggestions, being amazing and finally for joining me in developing VSeeFace! For VR based tracking, check out <u><link=\"http://deatrathias.net/TW/\">Tracking World</link></u>!\n\nAnd to all the wonderful people who helped me test this thing and gave me feedback:\n<u><link=\"https://twitter.com/ENiwatori\">@ENiwatori</link></u>, <u><link=\"https://twitter.com/AngelVayuu\">@AngelVayuu</link></u>, <u><link=\"https://twitter.com/ArgamaWitch\">@ArgamaWitch</link></u>, <u><link=\"https://twitter.com/Ponoki_Chan\">@Ponoki_Chan</link></u>, <u><link=\"https://twitter.com/DapperlyYours\">@DapperlyYours</link></u>, <u><link=\"https://twitter.com/comdost_art\">@comdost_art</link></u>, <u><link=\"https://twitter.com/Yamikow\">@Yamikow</link></u>, <u><link=\"https://twitter.com/proj_bombshell\">@proj_bombshell</link></u>, <u><link=\"https://twitter.com/MVjagaimo\">@MVjagaimo</link></u>, <u><link=\"https://twitter.com/Cadet_Del_Valle\">@Cadet_Del_Valle</link></u>, <u><link=\"https://twitter.com/asa_oiralume\">@Asa_Oiralume</link></u>, <u><link=\"https://twitter.com/_Killakuma\">@_Killakuma</link></u>, <u><link=\"https://twitter.com/cakexchan/\">@cakexchan</link></u>,</size> and everyone else!",
     "es": null,
-    "id": null
+    "id": "<b>Dibuat Oleh:</b>\n<b><u><link=\"https://twitter.com/Emiliana_vt\">@Emiliana_vt</link></u></b> (<u><link=\"https://www.youtube.com/EmilianaChannel\">YouTube</link></u>, <u><link=\"https://github.com/emilianavt\">GitHub</link></u>)\n<u><link=\"https://twitter.com/Virtual_Deat\">@Virtual_Deat</link></u> (<u><link=\"https://www.youtube.com/channel/UCjWNJAgl0ctB5qfjsh2q05w\">YouTube</link></u>, <u><link=\"https://www.twitch.tv/virtual_deat\">Twitch</link></u>)\n\nUpdates are posted and pinned in #vseeface of <u><link=\"https://discord.com/invite/BjBgk7k\">Deat's Rock Platform</link></u>.\n<size=74%>\n<b>Translations</b>\n\n<u><link=\"https://twitter.com/ENiwatori\">@ENiwatori</link></u> (Spanish)\n<u><link=\"https://twitter.com/KanekoHato\">@KanekoHato</link></u> (Indonesian)\n\n<b>Special Thanks</b>\n\nTo Deat for inspiring me to work on face tracking, help with technical issues, great suggestions, being amazing and finally for joining me in developing VSeeFace! For VR based tracking, check out <u><link=\"http://deatrathias.net/TW/\">Tracking World</link></u>!\n\nAnd to all the wonderful people who helped me test this thing and gave me feedback:\n<u><link=\"https://twitter.com/ENiwatori\">@ENiwatori</link></u>, <u><link=\"https://twitter.com/AngelVayuu\">@AngelVayuu</link></u>, <u><link=\"https://twitter.com/ArgamaWitch\">@ArgamaWitch</link></u>, <u><link=\"https://twitter.com/Ponoki_Chan\">@Ponoki_Chan</link></u>, <u><link=\"https://twitter.com/DapperlyYours\">@DapperlyYours</link></u>, <u><link=\"https://twitter.com/comdost_art\">@comdost_art</link></u>, <u><link=\"https://twitter.com/Yamikow\">@Yamikow</link></u>, <u><link=\"https://twitter.com/proj_bombshell\">@proj_bombshell</link></u>, <u><link=\"https://twitter.com/MVjagaimo\">@MVjagaimo</link></u>, <u><link=\"https://twitter.com/Cadet_Del_Valle\">@Cadet_Del_Valle</link></u>, <u><link=\"https://twitter.com/asa_oiralume\">@Asa_Oiralume</link></u>, <u><link=\"https://twitter.com/_Killakuma\">@_Killakuma</link></u>, <u><link=\"https://twitter.com/cakexchan/\">@cakexchan</link></u>,</size> dan yang lain!!",
   },
   "Notes:\n\n- After hitting the start button, wiggle around your mouth and eyebrows and blink for a second or two. This helps the face tracker to warm up. Slowly turning your head left and right can't hurt either.\n\n- If you encounter unexpected tracking issues, please make sure that there is enough light for your camera. Also make sure that no strong source of light is behind you.\n\n- To reduce CPU consumption, first lower FPS (e.g. to 30 or 15). If things are too slow, try the \"Fast\" model.\n\n- To modify expressions of a VRM file, edit the BlendShapeProxy in Unity. The \"Surprise\" expression can be added under the name \"Surprised\".\n\n- You can enable the experimental expression detection feature in the settings. Note: Calibrating your expressions for the first time will take some time if you want them to be recognized reliably.\n\n- Before jumping in, take a moment to think about how you can pull different faces to represent each expression. The more different your faces, the easier it will be to recognize them.\n\n- When calibrating expressions, save often. If, by accident, you record expression data that does not fit the expression, reload your latest save. The clear button will reset all data for an expression and should only be used as a last resort.\n\n- Once you have calibrated your expressions, after starting the tracker again, take a moment and check that each is recognized correctly. If there are any issues, add a bit of additional data.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Hints/Text (TMP)",
     "en": "Notes:\n\n- After hitting the start button, wiggle around your mouth and eyebrows and blink for a second or two. This helps the face tracker to warm up. Slowly turning your head left and right can't hurt either.\n\n- If you encounter unexpected tracking issues, please make sure that there is enough light for your camera. Also make sure that no strong source of light is behind you.\n\n- To reduce CPU consumption, first lower FPS (e.g. to 30 or 15). If things are too slow, try the \"Fast\" model.\n\n- To modify expressions of a VRM file, edit the BlendShapeProxy in Unity. The \"Surprise\" expression can be added under the name \"Surprised\".\n\n- You can enable the experimental expression detection feature in the settings. Note: Calibrating your expressions for the first time will take some time if you want them to be recognized reliably.\n\n- Before jumping in, take a moment to think about how you can pull different faces to represent each expression. The more different your faces, the easier it will be to recognize them.\n\n- When calibrating expressions, save often. If, by accident, you record expression data that does not fit the expression, reload your latest save. The clear button will reset all data for an expression and should only be used as a last resort.\n\n- Once you have calibrated your expressions, after starting the tracker again, take a moment and check that each is recognized correctly. If there are any issues, add a bit of additional data.",
     "ja": "Notes:\n\n- After hitting the start button, wiggle around your mouth and eyebrows and blink for a second or two. This helps the face tracker to warm up. Slowly turning your head left and right can't hurt either.\n\n- If you encounter unexpected tracking issues, please make sure that there is enough light for your camera. Also make sure that no strong source of light is behind you.\n\n- To reduce CPU consumption, first lower FPS (e.g. to 30 or 15). If things are too slow, try the \"Fast\" model.\n\n- To modify expressions of a VRM file, edit the BlendShapeProxy in Unity. The \"Surprise\" expression can be added under the name \"Surprised\".\n\n- You can enable the experimental expression detection feature in the settings. Note: Calibrating your expressions for the first time will take some time if you want them to be recognized reliably.\n\n- Before jumping in, take a moment to think about how you can pull different faces to represent each expression. The more different your faces, the easier it will be to recognize them.\n\n- When calibrating expressions, save often. If, by accident, you record expression data that does not fit the expression, reload your latest save. The clear button will reset all data for an expression and should only be used as a last resort.\n\n- Once you have calibrated your expressions, after starting the tracker again, take a moment and check that each is recognized correctly. If there are any issues, add a bit of additional data.",
     "es": "Notes:\n\n- Despues de iniciar el programa, mueve tu boca y cejas y parpadea por un par de segundos. Esto ayuda al algoritmo a calentar y detectar adecuadamente. Girar la cabeza lentamente de izquierda a derecha tambien ayuda.\n\n- Si encuentras problemas con la captura de movimiento, asegurate de que hay suficiente luz para tu camara. También asegurate de que no exista ninguna fuente de luz fuerte detrás de ti.\n\n- Pare reducir el consumo de recursos en CPU, primero intenta bajar tus cuadros por segundo (FPS, a 30 o 15). Si las cosas van muy lentas, intenta el modelo \"Veloz\".\n\n- Para modificar las expresiones de un archivo VRM, edita el archivo BlendShapeProxy en Unity. La expresión \"Surprise\" puede ser añadida bajo el nombre \"Surprised\".\n\n- Puedes activar el modo experimental de captura de expresiones en las opciones. Nota: Calibrar las expresiones por primera vez tomará algo de tiempo si quieres que estas sean reconocidas de manera constante.\n\n- Antes de grabarlas, toma un momento apara pensar en que gesticulación facial harias para que representes cada expresión de tu modelo. Entre mas distintas y variadas una de la otra, mas facil será activarlas \n\n- Cuando calibres expresiones, guarda la configuración de manera frecuente. Si, por accidente, grabas una expresión erronea, recarga tu ultima configuración guardada. El boton de \"limpiar todo\" borarrá toda la información de una expresion en particular y es una opcion de ultimo recurso.\n\n- Ya que calibres tus expresiones por completo, despues de iniciar el programa de captura de nuevo, tomate un momento y revisa que todas sean activadas correctamente. Si hay alguno problema con la deteccion, trata de añadir mas información (captura de nuevo) la expresión y guarda la información.",
-    "id": null
+    "id": "Catatan:\n\n- Setelah menekan mulai, gerakan mulut, alis, dan berkediplah sekejak. Ini akan membuat tracking wajah untuk mulai. Dan menggerakan kepala ke kiri dan kanan.\n\n- Jika menghadapi masalah tracking, Pastikan cahaya yang masuk ke kamera cukup. Pastikan juga tidak ada cahaya terang dari belakang.\n\n- Untuk mengurangi penggunaan cpu silahkan kurangi fps (mis. ke 30 atau 15). Jika terlalu lambat, Coba model \"Fast\".\n\n- Untuk mengubah expresi file VRM, ubah BlendShapeProxy di Unity. Expresi terkejut \"Surprise\" dapat di tambahkan di bawah nama \"Surprised\".\n\n- Kamu juga dapat menyalakan fitur experimen tracking expresi pada pengaturan. Catatan: Mengkalibrasi expresi pertamakali memakan waktu jika ingin secara benar di kenal.\n\n- Sebelum mencoba silahkan ambil waktu untuk memikirkan expresi wajah untuk setiap expresi. Semakin beda expresi, Akan lebih mudah untuk di ketahui.\n\n- ketika kalibrasi sering sering lah save. karene jika rekaman salah, bisa reload ke save sebelum nya. Tombol <b>clear</b> akan menghapus semua data expresi, sebaik nya di gunakan sebagai solusi terakhir.\n\n- Setelah selesai kalibrasi, dan tracker di mulai ulang, ambil waktu sesaat untuk memastikan bahwa semua expersi di kenal dengan baik. Jika ada masalah silahkan tambah sedikit data tambahan."
   },
   "Experimental expression detection (<u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">Tutorial</link></u>)": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Experimental expression detection/Text (TMP)",
@@ -1859,7 +1859,7 @@
     "en": "Global hotkeys",
     "ja": "Global hotkeys",
     "es": "Atajos Globales",
-    "id": null
+    "id": "hotkey Global"
   },
   "Global hotkeys can be used from anywhere, even if this program is not in focus.\n\nPressing Ctrl+Shift+F1 to Ctrl+Shift+F6 will enforce the corresponding expression (Neutral, Fun, Angry, Joy, Sorrow, Surprise). Pressing it again will stop the expression, but you can also directly switch to a different one.\n\nPressing Ctrl+Shift+F7 will toggle Leap Motion based hand tracking on and off.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Global hotkeys/Text (TMP)",
@@ -1873,7 +1873,7 @@
     "en": "Transparency/Greenscreen",
     "ja": "Transparency/Greenscreen",
     "es": "Transparencia/Pantalla verde",
-    "id": null
+    "id": "Transparansi/Greenscreen"
   },
   "Setting a different background color for use with chroma keying is not supported. Instead, you can capture from this program with true alpha transparency, which allows you to use any color combinations in your avatar and even allows for semi-transparent objects.\n\nTo do this, press the ※ button in the lower right corner. You can press the space key to hide and show this button.\n\nAfter hiding the UI, the background will show a checkboard pattern. Use a \"Game Capture\" source in <u><link=\"https://obsproject.com/\">OBS Studio</link></u> (or Streamlabs OBS) to capture this window and tick the \"Allow Transparency\" box. The checkboard pattern will disappear in OBS and turn transparent.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Transparency/Text (TMP)",
@@ -1887,7 +1887,7 @@
     "en": "Hint",
     "ja": "Hint",
     "es": "Consejo",
-    "id": null
+    "id": "Petunjuk"
   },
   "For more useful hints on using this program, check out the usage notes button. Also, the blue bars mean you are close to the edge of the camera image, so you might not want to move further in that direction. They won't show up in OBS. And check the <u><link=\"https://www.vseeface.icu/\">manual</link></u>.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Hint/Text (TMP)",
@@ -1901,7 +1901,7 @@
     "en": "Expression configuration",
     "ja": "Expression configuration",
     "es": "Configuración de expresión",
-    "id": null
+    "id": "Pengaturan expresi"
   },
   "Each expression, including the neutral one, has a number of settings that can be configured. An expression can be a base or additive expression. Only one base expression can be active at a time, but additive expressions are added on top of others. Mouth, eye blink and eyebrow animation can be disabled. A global hotkey can be assigned for every expression. If it is set to \"Hold\", the expression is enabled while the key is held. If set to \"Toggle\", it will turn on and off with each button press. The transition slider can be used to set how long the smooth transition time to or from this expressions should be, from instantaneous to half a second.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression configuration/Text (TMP)",
@@ -1915,7 +1915,7 @@
     "en": "Eyebrow tracking",
     "ja": "Eyebrow tracking",
     "es": "Eyebrow tracking",
-    "id": null
+    "id": "Tracking alis"
   },
   "Eyebrow tracking is supported for <u><link=\"https://vroid.com/en/studio/\">VRoid</link></u> and <u><link=\"https://fantia.jp/posts/164261\">Cecil Henshin</link></u> models. The strength of eyebrow motion can be set in the \"General settings\". To customize eyebrow animation or make it work for other model types, add two custom <u><link=\"https://vrm.dev/en/univrm/components/univrm_blendshape/\">VRM blendshape clips</link></u> (<u><link=\"https://www.youtube.com/watch?v=ECZXlzlIcKU\">Video</link></u>) named \"Brows up\" and \"Brows down\", which also allows properly mixing them with expressions.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Eyebrow tracking/Text (TMP)",
@@ -1929,7 +1929,7 @@
     "en": "Expression detection (experimental)",
     "ja": "Expression detection (experimental)",
     "es": "Expression detection (experimental)",
-    "id": null
+    "id": "Deteksi expresi (experimen)"
   },
   "The expression detection calibration process is a bit tedious and painful, so make sure to bring time. To use it, first enable it from the general settings menu. You can find a video walkthrough for the calibration process <u><link=\"https://www.youtube.com/watch?v=-Y2JyGLxuyo\">here</link></u>:\n\n- Make an expression with your face. More extreme expressions are easier to detect.\n- Press the corresponding button to start recording.\n- Move and turn your head around and talk while holding the expression.\n- Press the button again to stop recording.\n- Relax your face.\n- Repeat this for all expressions.\n- Press \"Calibrate\" and test the results.\n- If an expression gives you trouble, record more and \"Calibrate\" again.\n- If an expression is misdetected for a certain head pose, try recording more data for it in that pose.\n- Save when you are happy.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Expression detection/Text (TMP)",
@@ -1943,7 +1943,7 @@
     "en": "Camera and light",
     "ja": "Camera and light",
     "es": "Camera and light",
-    "id": null
+    "id": "Kamera dan cahaya"
   },
   "The direction of light can be changed with Ctrl+Left click. The camera can be rotated with Alt+Left click. Alt+Right click or Alt+Mouse wheel can be used to zoom in and out. Alt+Middle click or Ctrl+Right click can be used to drag the view.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Help/Camera and lights/Text (TMP)",
@@ -1957,28 +1957,28 @@
     "en": "Press hotkey for <b></b>\n<size=70%>Press escape to cancel.</size>",
     "ja": "Press hotkey for <b></b>\n<size=70%>Press escape to cancel.</size>",
     "es": "Press hotkey for <b></b>\n<size=70%>Press escape to cancel.</size>",
-    "id": null
+    "id": "Tekan hotkey untuk<b></b>\n<size=70%>, Tekan escape untuk batal.</size>"
   },
   "<link></link> is in use by <b></b>, override?": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyOverride/Message/Text",
     "en": "<link></link> is in use by <b></b>, override?",
     "ja": "<link></link>は<b></b>によって使用されています。上書きしますか？",
     "es": "<link></link> is in use by <b></b>, override?",
-    "id": null
+    "id": "<link></link> sedang di gunakan oleh <b></b>, ambil alih?"
   },
   "<link></link> cannot be used": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyInvalid/Message/Text",
     "en": "<link></link> cannot be used",
     "ja": "<link></link>は使用できません。",
     "es": "<link></link> cannot be used",
-    "id": null
+    "id": "<link></link> tidak dapat di pakai"
   },
   "Assigned <link></link> to <b></b>": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/HotkeyUI/HotkeyDone/Message/Text",
     "en": "Assigned <link></link> to <b></b>",
     "ja": "Assigned <link></link> to <b></b>",
     "es": "Assigned <link></link> to <b></b>",
-    "id": null
+    "id": "<link></link> Di assign ke <b></b>"
   },
   "English (en)": {
     "comment": "VSeeFace/Canvas/UI/StartUI/Localization/Dropdown/Label",
@@ -1992,63 +1992,63 @@
     "en": "Blink smoothing",
     "ja": "Blink smoothing",
     "es": "Blink smoothing",
-    "id": null
+    "id": "Perhalus kedipan"
   },
   "Neck stiffness": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Neck stiffness/Text",
     "en": "Neck stiffness",
     "ja": "Neck stiffness",
     "es": "Neck stiffness",
-    "id": null
+    "id": "Kekakuan leher"
   },
   "Toaster (no eye/gaze/expression tracking)": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/ModelContainer/ModelDropdown/Option:4",
     "en": "Toaster (no eye/gaze/expression tracking)",
     "ja": "Toaster (no eye/gaze/expression tracking)",
     "es": "Toaster (no eye/gaze/expression tracking)",
-    "id": null
+    "id": "Toaster (tanpa tracking mata/tatapan/expresi)"
   },
   "Please select a camera": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoCamera",
     "en": "Please select a camera",
     "ja": "Please select a camera",
     "es": null,
-    "id": null
+    "id": "Silahkan pilih kamera"
   },
   "Please select an avatar": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/NoAvatar",
     "en": "Please select an avatar",
     "ja": "Please select an avatar",
     "es": null,
-    "id": null
+    "id": "Silahkan pilih avatar"
   },
   "Warning: Avatar has non-zero bone rotations. Make sure to do the first VRM export with \"Freeze Pose\" enabled.": {
     "comment": "VSeeFace/Canvas/UI/AvatarSelection/Warnings/FreezePoseWarning",
     "en": "Warning: Avatar has non-zero bone rotations. Make sure to do the first VRM export with \"Freeze Pose\" enabled.",
     "ja": "Warning: Avatar has non-zero bone rotations. Make sure to do the first VRM export with \"Freeze Pose\" enabled.",
     "es": null,
-    "id": null
+    "id": "Perhatian: Avatar memiliki rotasi tulang <b>non-zero</b>. Pastikan kamu mengexport VRM dengan pengaturan \"Freeze Pose\" di nyalakan"
   },
   "Smile to smile, surprised and angry are eye brows up and down.": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Simple mode description/Label",
     "en": "Smile to smile, surprised and angry are eye brows up and down.",
     "ja": "Smile to smile, surprised and angry are eye brows up and down.",
     "es": null,
-    "id": null
+    "id": "Senyum untuk tersenyum, kaget dan marah, alis naik dan turun."
   },
   "[Choose your camera here]": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Camera/Camera dropdown/Label",
     "en": "[Choose your camera here]",
     "ja": "[Choose your camera here]",
     "es": null,
-    "id": null
+    "id": "[Pilih kamera di sini]"
   },
   "Keep virtual camera enabled": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Keep virtual cam on/Label",
     "en": "Keep virtual camera enabled",
     "ja": "Keep virtual camera enabled",
     "es": null,
-    "id": null
+    "id": "Tetap nyalakan kamera virtual"
   },
   ">": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 1/Navigation/>/Text",
@@ -2076,21 +2076,21 @@
     "en": "Tutorial: Transparency in OBS/SLOBS (1)",
     "ja": "チュートリアル：　OBSかSLOBSで透明な背景 (1)",
     "es": null,
-    "id": null
+    "id": "Tutorial: Transparasi di OBS/SLOBS (1)"
   },
   "Tutorial: Transparency in OBS/SLOBS (2)": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/OBS 2/Title",
     "en": "Tutorial: Transparency in OBS/SLOBS (2)",
     "ja": "チュートリアル：　OBSかSLOBSで透明な背景 (2)",
     "es": null,
-    "id": null
+    "id": "Tutorial: Transparasi di OBS/SLOBS (2)"
   },
   "Tutorial: Hide UI": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/Hide UI/Title",
     "en": "Tutorial: Hide UI",
     "ja": "チュートリアル：　UIを非表示にする",
     "es": null,
-    "id": null
+    "id": "Tutorial: Sembunyikan UI)"
   },
   "Tutorial: Reset (1)": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/Reset 1/Title",
@@ -2195,35 +2195,35 @@
     "en": "Show log and settings folder",
     "ja": "ログと設定のフォルダを表示する",
     "es": null,
-    "id": null
+    "id": "Tampilkan folder setting dan log"
   },
   "While looking down:": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label",
     "en": "While looking down:",
     "ja": "While looking down:",
     "es": null,
-    "id": null
+    "id": "Ketika melihat kebawah:"
   },
   "Blinks less sensitive": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Look down compensation/Label/Compensation type/Option:0",
     "en": "Blinks less sensitive",
     "ja": "Blinks less sensitive",
     "es": null,
-    "id": null
+    "id": "Sensitivitas kedipan lebih kecil"
   },
   "Camera defaults": {
     "comment": "Default configuration mode for webcams",
     "en": "Camera defaults",
     "ja": "カメラのデフォルト",
     "es": null,
-    "id": null
+    "id": "Kamera bawaan"
   },
   "Camera Settings": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraModeContainer/CameraModeLabel",
     "en": "Camera Settings",
     "ja": "カメラの設定",
     "es": null,
-    "id": null
+    "id": "Pengaturan Kamera"
   },
   "Look down threshold": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Look down angle/Text",
@@ -2237,49 +2237,49 @@
     "en": "Skip",
     "ja": "スキップ ",
     "es": null,
-    "id": null
+    "id": "Lewati"
   },
   "Increase process priority": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/High priority/Label",
     "en": "Increase process priority",
     "ja": "Increase process priority",
     "es": null,
-    "id": null
+    "id": "Naikan prioritas proses"
   },
   "Recommend Settings": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/AutoPerformanceTune/AutoPerfTuneButton/Text",
     "en": "Recommend Settings",
     "ja": "自動的に設定を調整",
     "es": null,
-    "id": null
+    "id": "Pengaturan rekomendasi"
   },
   "This can take a minute or longer. Proceed?": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune confirm/Message/Text",
     "en": "This can take a minute or longer. Proceed?",
     "ja": "1分以上かかる場合があります。 続行しますか？",
     "es": null,
-    "id": null
+    "id": "Ini akan memakan sedikit waktu. Lanjutkan?"
   },
   "Measuring system performance, please wait.\nThis might take up to a few minutes on very slow PCs.": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune message/Message/Text",
     "en": "Measuring system performance, please wait.\nThis might take up to a few minutes on very slow PCs.",
     "ja": "PCのパフォーマンスを測定します。しばらくお待ちください。",
     "es": null,
-    "id": null
+    "id": "Mengukur performa sistem, tolong tunggu \nDapat memakan waktu pada pc lambat."
   },
   "Recommended settings\n\n<size=22>Tracking quality: {1}\nCamera frame rate: {2} fps</size>": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Recommendation",
     "en": "Recommended settings\n\n<size=22>Tracking quality: {1}\nCamera frame rate: {2} fps</size>",
     "ja": "おすすめの設定：\n\n<size=22>トラッキング質: {1}\nカメラのフレームレート: {2} fps</size>",
     "es": null,
-    "id": null
+    "id": "Pengaturan rekomendasi\n\n<size=22>Kualitas tracking: {1}\nframe rate Kamera: {2} fps</size>"
   },
   "Maximum speed per quality level": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Results header",
     "en": "Maximum speed per quality level",
     "ja": "トラッキング質レベルごとの最高速度",
     "es": null,
-    "id": null
+    "id": "Kecepatan maximum per level kualitas"
   },
   "{m0}: {f0}\n{m1}: {f1}\n{m2}: {f2}\n{m3}: {f3}\n{m4}: {f4}": {
     "comment": "VSeeFace/Canvas/UI/Perf tune/Perf tune results/Message/Results",
