@@ -1,7 +1,10 @@
 # VSeeFaceIndonesianLanguage
-Project to add indonesian language into vseeface.
-Just fork if you want to continue , ill pull it when u request to pull.
-Owkay !!
+Project Goal Is To Add Indonesian Language To VSeeFace
+If You Want To Do Edit / Continue / Fix Something , Just Fork It , And After You Done,
+Just Make Pull Request And i'll Pull It.
+
+With Contribution Of :
+<a href="https://twitter.com/EthelChamomile">Ethel Chamomile</a>
 
 
 
