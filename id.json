@@ -1273,7 +1273,7 @@
   },
   "Look down threshold": {
     "comment": "VSeeFace/Canvas/UI/CalibrationUI/Settings/General settings/Scroll View/Viewport/Content/Sliders/Look down angle/Text",
-    "text": null
+    "text": "Treshold lihat ke bawah"
   },
   "Skip": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/Skip/Text",
@@ -1309,22 +1309,22 @@
   },
   "Try harder to detect faces": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Try hard/Label",
-    "text": null
+    "text": "Coba lebih keras untuk mendeteksi wajah"
   },
   "Blackmagic capture card support": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Blackmagic/Label",
-    "text": null
+    "text": "Dukungan Capture Card Blackmagic"
   },
   "Keep hips mostly fixed": {
     "comment": "VSeeFace/Canvas/UI/MainUI/Settings/General settings/Scroll View/Viewport/Content/Checkboxes/Lock hips/Label",
-    "text": null
+    "text": "Buat pinggang menjadi diam"
   },
   "Slow": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraModeContainer/CameraModeDropdown",
-    "text": null
+    "text": "Lambat"
   },
   "[Network tracking]": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraDropdown/Label",
-    "text": null
+    "text": "Tracking jaringan"
   }
 }
