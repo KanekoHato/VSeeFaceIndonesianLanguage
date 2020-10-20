@@ -1193,7 +1193,7 @@
   },
   "Tutorial: Hide UI": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/Hide UI/Title",
-    "text": "Tutorial: Sembunyikan (UI)"
+    "text": "Tutorial: Sembunyikan UI)"
   },
   "Tutorial: Reset (1)": {
     "comment": "VSeeFace/Canvas/UI/Tutorial/Reset 1/Title",
@@ -1325,6 +1325,6 @@
   },
   "[Network tracking]": {
     "comment": "VSeeFace/Canvas/UI/StartUI/SelectionUI/CameraContainer/CameraDropdown/Label",
-    "text": "Tracking jaringan"
+    "text": "[Tracking jaringan]"
   }
 }
